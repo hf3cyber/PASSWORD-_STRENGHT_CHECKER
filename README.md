@@ -34,8 +34,8 @@ Based on these factors, the script assigns a strength rating (Very Weak to Very 
 ## 📜 Usage
 
   Clone the repository:
-
-    git clone https://github.com/hf3cyber/PRODIGY_CS_03.git
+  
+    https://github.com/hf3cyber/PASSWORD-_STRENGHT_CHECKER.git
     cd PRODIGY_CS_03
 
 # Run the script:
